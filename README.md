@@ -88,5 +88,9 @@ Abaixo estão os principais módulos visuais desenvolvidos para a plataforma, de
 1. Clone este repositório:
 ```bash
    git clone https://github.com/ThiagoLLimas/servicos-locais.git
-   cd servicos-locais
 ```
+Navegue até a pasta do projeto:
+```bash
+   cd portfolio-servicos-locais
+```
+Abra o arquivo index.html diretamente no seu navegador ou utilize a extensão Live Server no VS Code para rodar o ambiente de desenvolvimento local.
