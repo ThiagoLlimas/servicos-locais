@@ -8,11 +8,11 @@ O **Serviços Locais** é uma Landing Page de alta conversão projetada para con
 
 ## 🚀 Funcionalidades Principais
 
-*   **Filtro Visual de Categorias:** Tags interativas mapeando mais de 14 especialidades (Eletricista, Encanador, Pedreiro, Marido de Aluguel, Diarista, etc.) para facilitar a identificação visual do cliente.
 *   **Fluxo de Contratação Guiado:** Seção descritiva "Como Funciona" estruturada em etapas simples (Solicitação de Orçamento $\rightarrow$ Atendimento $\rightarrow$ Problema Resolvido) para quebrar objeções do usuário.
 *   **Prova Social Estruturada:** Seção dedicada a avaliações e depoimentos de clientes integrando uma simulação realista de notas do Google Business.
 *   **Central de Ajuda (FAQ interativo):** Sistema de *Accordion* desenvolvido em JavaScript puro para sanar as dúvidas mais frequentes sem poluir o visual da página.
 *   **Formulário Avançado de Captação:** Formulário completo segmentado por tipo de serviço (Residencial, Comercial, Outros) com validação de campos e localização.
+*   **Filtro Visual de Categorias:** Tags interativas destacando mais de 14 especialidades (Eletricista, Encanador, Pedreiro, Marido de Aluguel, Diarista, etc.) para facilitar a identificação visual do cliente.
 *   **Aviso de Privacidade (LGPD):** Banner de consentimento de Cookies totalmente funcional, respeitando as conformidades da legislação vigente.
 
 ---
