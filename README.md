@@ -80,7 +80,7 @@ Abaixo estão os principais módulos visuais desenvolvidos para a plataforma, de
 *   🌍 **Acesse a Aplicação em Produção:** https://thiagollimas.github.io/servicos-locais/
 *   💼 **Desenvolvedor Responsável:** [Thiago Henrique — LinkedIn](https://www.linkedin.com/in/thiago-lima-271138270/)
 *   💻 **Confira meu Portfólio Principal:** [Thiago.dev](https://thiagolima-dev.vercel.app/)
-*   💬 **Orçamentos e Contato:** [Conversar no WhatsApp](https://wa.me/5531995263774)
+*   💬 **Contato:** [Conversar no WhatsApp](https://wa.me/5531995263774)
 
 
 ## ⚙️ Como Executar o Projeto Localmente
